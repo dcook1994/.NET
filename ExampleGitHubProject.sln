@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleGitHubProject", "ExampleGitHubProject\ExampleGitHubProject.csproj", "{0AF84894-EEA2-4DA1-9A79-C3F535F4C5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleGitHubProject.Tests", "ExampleGitHubProject.Tests\ExampleGitHubProject.Tests.csproj", "{DE96F8A4-8912-472B-BFDC-5AEFD5B23520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AF84894-EEA2-4DA1-9A79-C3F535F4C5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF84894-EEA2-4DA1-9A79-C3F535F4C5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF84894-EEA2-4DA1-9A79-C3F535F4C5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF84894-EEA2-4DA1-9A79-C3F535F4C5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE96F8A4-8912-472B-BFDC-5AEFD5B23520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE96F8A4-8912-472B-BFDC-5AEFD5B23520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE96F8A4-8912-472B-BFDC-5AEFD5B23520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE96F8A4-8912-472B-BFDC-5AEFD5B23520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
