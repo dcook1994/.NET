@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{204E1FE7-7C63-4830-92F1-9FAA28D3802D}|">
+  <MonoDevelop.Ide.ItemProperties.BootstrapIntroduction PreferredExecutionTarget="ChromeHTML" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BootstrapIntroduction\Scripts\ViewModels\AuthorFormViewModel.js">
+    <Files>
+      <File FileName="BootstrapIntroduction\Filters\GenerateResultListFilterAttribute.cs" Line="1" Column="1" />
+      <File FileName="BootstrapIntroduction\Controllers\AuthorsController.cs" Line="58" Column="76" />
+      <File FileName="BootstrapIntroduction\Services\AuthorService.cs" Line="29" Column="82" />
+      <File FileName="BootstrapIntroduction\Behaviors\QueryOptionsCalculator.cs" Line="1" Column="1" />
+      <File FileName="BootstrapIntroduction\Views\Authors\Form.cshtml" Line="1" Column="1" />
+      <File FileName="BootstrapIntroduction\Scripts\ViewModels\AuthorFormViewModel.js" Line="1" Column="1" />
+      <File FileName="BootstrapIntroduction\Controllers\Api\AuthorsController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
